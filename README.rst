@@ -1,7 +1,6 @@
-英文文本词频统计
 Requirements
 ============
-Python 3.4+
+Python 3.4+英文文本词频统计
 
 Usage
 =====
